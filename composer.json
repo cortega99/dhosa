@@ -1,5 +1,5 @@
 {
-    "name": "laravie/dhosa",
+    "name": "cortega99/dhosa",
     "description": "Hot Swapping for Laravel Eloquent",
     "type": "library",
     "license": "MIT",
@@ -21,7 +21,7 @@
     },
     "require": {
         "php": "^7.3 || ^8.0",
-        "illuminate/database": "^6.0 || ^7.0 || ^8.0"
+        "illuminate/database": "^6.0 || ^7.0 || ^8.0 || ^9.0 || ^10.0"
     },
     "require-dev": {
         "laravel/legacy-factories": "^1.0.4",
